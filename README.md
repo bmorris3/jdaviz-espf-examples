@@ -22,6 +22,6 @@ pip install -r requirements.txt
 
 #### Feedback
 
-Please join [today's brainstorming Mural](https://github.com/bmorris3/jdaviz-espf-examples).
+Please join [today's brainstorming Mural](https://app.mural.co/t/stsciinternal7446/m/stsciinternal7446/1772547464521/5876853475079fc2bc8228ed68c73047bcb2028d?sender=uf97cc8ff948f0af83ca47829).
 
 
