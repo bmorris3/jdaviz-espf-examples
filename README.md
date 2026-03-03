@@ -2,8 +2,26 @@
 
 ### March 3, 2026
 
-Install the required dependencies with:
+#### Setup
+
+If you use conda, create a new conda env with:
+```bash
+conda create -n jdaviz-espf python=3.12
+```
+
+or with `venv` like so:
+```bash
+python -m venv /path/to/jdaviz-espf-env
+```
+
+Then install the required dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+#### Feedback
+
+Please join [today's brainstorming Mural](git@github.com:bmorris3/jdaviz-espf-examples.git).
+
+
